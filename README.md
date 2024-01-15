@@ -11,5 +11,5 @@
   <a href="https://www.github.com/InstaCodex"><img width="24" height="24" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"/> </a>
   <a href="https://www.facebook.com/profile.php?id=100088689214598"><img width="24" height="24" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg"/> </a>
   <a href="https://www.instagram.com/insta_felixc"><img width="24" height="24" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg"/> </a>
-  <a href="https://api.whatsapp.com/send/?phone=6287838115739&text=Hallo+Mas+Felixc!"><img width="24" height="24" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg"/> </a>
+  <a href="https://api.whatsapp.com/send/?phone=442081299727&text=Hallo+Mas+Felixc!"><img width="24" height="24" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg"/> </a>
 </p>
